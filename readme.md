@@ -26,9 +26,8 @@ eureka-service/
 │   └── test/java/com/ProdeMaster/EurekaNamingService
 │       └── EurekaNamingServiceApplicationTests.java
 ├── Dockerfile
-├── docker-compose.yml
 ├── pom.xml
-└── README.md
+└── readme.md
 ```
 
 ## ⚙️ Configuración
